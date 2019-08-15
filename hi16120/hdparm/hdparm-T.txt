@@ -1,0 +1,20 @@
+root@deepin-PC:/home/deepin# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   11234 MB in  2.00 seconds = 5628.47 MB/sec
+root@deepin-PC:/home/deepin# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   11292 MB in  2.00 seconds = 5657.09 MB/sec
+root@deepin-PC:/home/deepin# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   11284 MB in  2.00 seconds = 5653.77 MB/sec
+root@deepin-PC:/home/deepin# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   11282 MB in  2.00 seconds = 5652.17 MB/sec
+root@deepin-PC:/home/deepin# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   11400 MB in  2.00 seconds = 5711.71 MB/sec

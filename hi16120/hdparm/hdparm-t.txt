@@ -1,0 +1,25 @@
+root@deepin-PC:/home/deepin# hdparm -t /dev/sda
+
+/dev/sda:
+SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 0d 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ Timing buffered disk reads: 530 MB in  3.01 seconds = 176.22 MB/sec
+root@deepin-PC:/home/deepin# hdparm -t /dev/sda
+
+/dev/sda:
+SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 0d 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ Timing buffered disk reads: 532 MB in  3.01 seconds = 176.83 MB/sec
+root@deepin-PC:/home/deepin# hdparm -t /dev/sda
+
+/dev/sda:
+SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 0d 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ Timing buffered disk reads: 534 MB in  3.00 seconds = 177.83 MB/sec
+root@deepin-PC:/home/deepin# hdparm -t /dev/sda
+
+/dev/sda:
+SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 0d 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ Timing buffered disk reads: 534 MB in  3.00 seconds = 177.86 MB/sec
+root@deepin-PC:/home/deepin# hdparm -t /dev/sda
+
+/dev/sda:
+SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 0d 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ Timing buffered disk reads: 534 MB in  3.01 seconds = 177.69 MB/sec
